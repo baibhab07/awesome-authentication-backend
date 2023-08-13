@@ -4,8 +4,7 @@
   "description": "The beset authenticator you will ever find",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js",
-    "build": "yarn install"
+    "dev": "nodemon index.js"
   },
   "license": "MIT",
   "dependencies": {
